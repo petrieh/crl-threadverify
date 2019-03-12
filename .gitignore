@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+dist/*
+src/crl.threadverify.egg-info/*
+sphinxdocs/robotdocs.rst
+build/*
+robotdocs/*.html
+.cache/
+.tox/
+build_dir/
+.venv/
